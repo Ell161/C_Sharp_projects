@@ -1,0 +1,15 @@
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.csproj.AssemblyReference.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.AssemblyInfoInputs.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.AssemblyInfo.cs
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.csproj.CoreCompileInputs.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\bin\Debug\net7.0\Seminar_8.60.exe
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\bin\Debug\net7.0\Seminar_8.60.deps.json
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\bin\Debug\net7.0\Seminar_8.60.runtimeconfig.json
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\bin\Debug\net7.0\Seminar_8.60.dll
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\bin\Debug\net7.0\Seminar_8.60.pdb
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.dll
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\refint\Seminar_8.60.dll
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.pdb
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\Seminar_8.60.genruntimeconfig.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_8.60\obj\Debug\net7.0\ref\Seminar_8.60.dll
