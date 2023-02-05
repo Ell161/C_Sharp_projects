@@ -1,0 +1,15 @@
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\bin\Debug\net7.0\Seminar_9.68.exe
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\bin\Debug\net7.0\Seminar_9.68.deps.json
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\bin\Debug\net7.0\Seminar_9.68.runtimeconfig.json
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\bin\Debug\net7.0\Seminar_9.68.dll
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\bin\Debug\net7.0\Seminar_9.68.pdb
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.csproj.AssemblyReference.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.AssemblyInfoInputs.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.AssemblyInfo.cs
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.csproj.CoreCompileInputs.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.dll
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\refint\Seminar_9.68.dll
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.pdb
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\Seminar_9.68.genruntimeconfig.cache
+C:\Users\eller\Desktop\homework\C_Sharp\lessons-C-\Seminar_9.68\obj\Debug\net7.0\ref\Seminar_9.68.dll
